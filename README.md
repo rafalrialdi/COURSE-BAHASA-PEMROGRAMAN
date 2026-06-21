@@ -18,7 +18,7 @@ Website pelatihan pemrograman untuk mahasiswa **Universitas Pamulang (UNPAM)**. 
 |------------|-------------------------------------|
 | Backend    | PHP (native, mysqli + prepared statements) |
 | Database   | MySQL / MariaDB                     |
-| Frontend   | HTML, CSS (custom, tanpa framework) |
+| Frontend   | HTML, CSS (custom,framework) |
 | Library    | Chart.js (statistik dashboard admin)|
 | Server Lokal | XAMPP (Apache + MySQL)            |
 
