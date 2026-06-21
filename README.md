@@ -108,10 +108,10 @@ Database contoh sudah berisi 1 akun untuk masing-masing role, siap dipakai untuk
 
 | Nama | Peran |
 |------|-------|
-| Rafal Rialdi | Developer |
-| Rezki Fajar Pratama | Developer |
-| Faruqh Fatihul Ikwan | Developer |
-| Rehan Al Amin | Developer |
+| Rafal Rialdi | hacker |
+| Rezki Fajar Pratama | hipster |
+| Faruqh Fatihul Ikwan | hipster |
+| Rehan Al Amin | hustler|
 
 ---
 
